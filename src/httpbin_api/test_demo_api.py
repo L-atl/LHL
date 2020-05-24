@@ -4,7 +4,7 @@ import json
 #from .const import *
 BASE_URL="http://httpbin.org/"
 IP_URL="/ip"
-LOCAL_IP="182.139.88.44"
+LOCAL_IP="171.212.245.119"
 POST_TEST_URL= "/post"
 
 class Test_httpbin():
